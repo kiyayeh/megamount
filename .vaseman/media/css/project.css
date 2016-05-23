@@ -18,6 +18,9 @@
     width: 960px;
   }
 }
+.slides, & > .dg {
+    display: none;
+}
 /* HEADER */
 /* BANNER */
 /* MENU */
